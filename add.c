@@ -3,3 +3,4 @@ b = 20
 #comment the line
 sum = a+b
 print(sum)
+print(a)
